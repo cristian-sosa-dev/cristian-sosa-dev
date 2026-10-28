@@ -6,8 +6,7 @@
 </p>
 
 <p align="center">
-  Trabajo en infraestructura, observabilidad y confiabilidad de sistemas.
-  También desarrollo aplicaciones web para proyectos universitarios.
+  Analista de infraestructura y observabilidad, con experiencia en desarrollo de software.
 </p>
 
 ## Observabilidad e infraestructura
@@ -22,7 +21,7 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
-## Elementos (Stack de desarrollo)
+## Stack de desarrollo
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,laravel,postgres,vue,js,docker" alt="Tecnologías de desarrollo" />
