@@ -1,19 +1,16 @@
-<h1 align="center">Cristian Sosa</h1>
-<p align="center">Site Reliability Engineer | Full-Stack Developer</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=cristian-sosa-dev&theme=midnight&avatar=https%3A%2F%2Fgithub.com%2Fcristian-sosa-dev.png" alt="cristian-sosa-dev galaxy visual" />
-</p>
+  <a href="https://github.com/cristian-sosa-dev">
+    <img src="https://www.gitskins.com/api/section/hero?username=cristian-sosa-dev&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fcristian-sosa-dev.png&variant=space-shooter&v=space-hero-5&mode=dark" width="100%" alt="cristian-sosa-dev animated terminal profile" />
+  </a>
 
-<p align="center"><b>X</b> repositorios públicos, <b>X</b> estrellas, <b>X</b> contribuciones en el último año y una racha máxima de <b>X</b> días.</p>
+  <a href="https://github.com/cristian-sosa-dev">
+    <img src="https://www.gitskins.com/api/section/heatmap?username=cristian-sosa-dev&theme=github-dark&avatar=https%3A%2F%2Fgithub.com%2Fcristian-sosa-dev.png&variant=space-shooter&v=space-jet-original-2&mode=dark" width="100%" alt="cristian-sosa-dev animated contribution jet" />
+  </a>
 
-## Brightest stars
+</div>
 
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=cristian-sosa-dev&theme=midnight&avatar=https%3A%2F%2Fgithub.com%2Fcristian-sosa-dev.png" alt="cristian-sosa-dev projects visual" />
-</p>
-
-## Elements
+## 🛠️ Stack y Herramientas
 
 <p align="center">
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
@@ -25,13 +22,3 @@
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </p>
-
-## Transmission
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=cristian-sosa-dev&theme=midnight&avatar=https%3A%2F%2Fgithub.com%2Fcristian-sosa-dev.png" alt="cristian-sosa-dev social visual" />
-</p>
-
-<p align="center"><a href="https://github.com/cristian-sosa-dev">GitHub</a></p>
-
-<p align="center"><sub>Cristian Sosa · Repo galaxy generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
