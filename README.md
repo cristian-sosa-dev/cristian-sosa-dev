@@ -12,10 +12,13 @@
 ## Observabilidad e infraestructura
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=grafana,docker" alt="Herramientas de infraestructura" />
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
   <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace" />
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
-  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" />
 </p>
 
 ## Stack de desarrollo
@@ -28,12 +31,6 @@
   <img src="https://img.shields.io/badge/Inertia.js-v2-9553E9?style=for-the-badge" alt="Inertia.js v2" />
   <img src="https://img.shields.io/badge/FilamentPHP-FFAA00?style=for-the-badge&logo=php&logoColor=black" alt="FilamentPHP" />
 </p>
-
-- **Backend:** PHP y Laravel.
-- **Frontend:** Vue 3 e Inertia.js v2.
-- **Bases de datos:** PostgreSQL.
-- **Paneles administrativos:** FilamentPHP.
-- **Contenedores:** Docker.
 
 ## Proyectos destacados
 
@@ -52,5 +49,4 @@
 </p>
 
 <p align="center">
-  <sub>Cristian Sosa · Perfil generado con <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub>
-</p>
+  <sub>Cristian S
