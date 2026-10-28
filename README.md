@@ -9,7 +9,7 @@
 ## Stack de desarrollo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,prisma,vue,js,react,aws,git,github,docker,linux" alt="Tecnologías de desarrollo" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,mysql,vue,js,react,aws,git,github,docker,linux" alt="Tecnologías de desarrollo" />
 </p>
 
 ## Observabilidad e infraestructura
