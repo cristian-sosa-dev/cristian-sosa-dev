@@ -34,10 +34,3 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/social?username=cristian-sosa-dev&theme=midnight" alt="Redes sociales de Cristian Sosa" />
 </p>
-
-<p align="center">
-  <a href="https://github.com/cristian-sosa-dev">Mi perfil de GitHub</a>
-</p>
-
-<p align="center">
-  <sub>Cristian S
