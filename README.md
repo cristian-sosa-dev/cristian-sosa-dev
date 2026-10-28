@@ -12,13 +12,13 @@
 ## Observabilidad e infraestructura
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=grafana,docker" alt="Herramientas de infraestructura" />
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Zabbix-DC382D?style=for-the-badge&logo=zabbix&logoColor=white" alt="Zabbix" />
-  <img src="https://img.shields.io/badge/Dynatrace-1496FF?style=for-the-badge&logo=dynatrace&logoColor=white" alt="Dynatrace" />
-  <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
+  <img src="https://cdn.simpleicons.org/zabbix/CC2936" height="45" alt="Zabbix" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dynatrace/1496FF" height="45" alt="Dynatrace" />
+  &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/grafana/F46800" height="45" alt="Grafana" />
+  &nbsp;&nbsp;
+  <img src="https://skillicons.dev/icons?i=docker" height="45" alt="Docker" />
 </p>
 
 ## Stack de desarrollo
