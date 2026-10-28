@@ -1,12 +1,9 @@
-<h1 align="center">Cristian Sosa</h1>
-<p align="center">Site Reliability Engineer (SRE) · Observabilidad · Infraestructura</p>
-
 <p align="center">
   <img src="https://www.gitskins.com/api/section/galaxy?username=cristian-sosa-dev&theme=midnight" alt="Visualización del perfil de Cristian Sosa" />
 </p>
 
 <p align="center">
-  Analista de infraestructura y observabilidad, con experiencia en desarrollo de software.
+  Site Reliability Engineer (SRE), con experiencia en desarrollo de software.
 </p>
 
 ## Observabilidad e infraestructura
