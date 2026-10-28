@@ -24,7 +24,7 @@
 ## Stack de desarrollo
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,vue,js,docker" alt="Tecnologías de desarrollo" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,postgres,vue,js,docker,react,linux" alt="Tecnologías de desarrollo" />
 </p>
 
 <p align="center">
