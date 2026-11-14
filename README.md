@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/galaxy?username=cristian-sosa-dev&theme=midnight" alt="Visualización del perfil de Cristian Sosa" />
+  <img src="ton618-hero (1).svg" alt="Cristian Sosa — Site Reliability Engineer y desarrollador" width="100%" />
 </p>
+
+<p align="center"><img src="assets/divider.svg" width="100%" alt="" /></p>
 
 <p align="center">
   Site Reliability Engineer (SRE), con experiencia en desarrollo de software.
@@ -20,14 +22,3 @@
   <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" alt="Grafana" />
 </p>
 
-## Proyectos destacados
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=cristian-sosa-dev&theme=midnight" alt="Proyectos destacados de GitHub" />
-</p>
-
-## Redes Sociales
-
-<p align="center">
-  <img src="https://www.gitskins.com/api/section/social?username=cristian-sosa-dev&theme=midnight" alt="Redes sociales de Cristian Sosa" />
-</p>
